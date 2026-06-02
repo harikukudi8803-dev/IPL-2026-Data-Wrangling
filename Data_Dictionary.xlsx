@@ -1,0 +1,26 @@
+Column Name,Data Type
+match_id,int64
+season,int64
+phase,object
+match_no,int64
+date,datetime
+venue,object
+batting_team,object
+bowling_team,object
+innings,int64
+over,float64
+striker,object
+bowler,object
+runs_of_bat,int64
+extras,int64
+wide,int64
+legbyes,int64
+byes,int64
+noballs,int64
+wicket_type,object
+player_dismissed,object
+fielder,object
+year,int64
+month,object
+day,object
+total_runs,int64
